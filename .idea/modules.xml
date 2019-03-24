@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Auditoriski Vezbi/Auditoriski Vezbi.iml" filepath="$PROJECT_DIR$/Auditoriski Vezbi/Auditoriski Vezbi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homeworks/Homeworks.iml" filepath="$PROJECT_DIR$/Homeworks/Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab Exercises/Lab Exercises.iml" filepath="$PROJECT_DIR$/Lab Exercises/Lab Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OS2018-2019.iml" filepath="$PROJECT_DIR$/OS2018-2019.iml" />
+    </modules>
+  </component>
+</project>
