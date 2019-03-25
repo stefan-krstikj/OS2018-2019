@@ -4,18 +4,19 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.concurrent.Semaphore;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class CountThree {
 
-    public static int NUM_RUNS = 100;
+    public static int NUM_RUNS = 3;
     /**
      * Promenlivata koja treba da go sodrzi brojot na pojavuvanja na elementot 3
      */
-    int count = 0;
+    static int count = 0;
     /**
      * TODO: definirajte gi potrebnite elementi za sinhronizacija
      */
-    Object sync = new Object();
+    Semaphore semaphore = new Semaphore(1);
 
     public void init() {
     }
@@ -25,14 +26,15 @@ public class CountThree {
         public void count(int[] data) throws InterruptedException {
             // da se implementira
             int c = 0;
-            for(int i = 0; i < data.length; i++){
-                if(data[i] == 3)
+            for (int i = 0; i < data.length; i++) {
+                if (data[i] == 3) {
                     c++;
+                }
             }
 
-            //synchronized (sync){
-                count+=c;
-            //}
+            semaphore.acquire();
+            count+=c;
+            semaphore.release();
         }
         private int[] data;
 
@@ -44,9 +46,10 @@ public class CountThree {
         public void run() {
             try {
                 count(data);
-            } catch (Exception e) {
-                e.printStackTrace();
+            } catch (InterruptedException e) {
+
             }
+
         }
     }
 
@@ -67,11 +70,12 @@ public class CountThree {
         Scanner s = new Scanner(System.in);
         int total=s.nextInt();
 
+        int[] data = new int[total];
+        for (int j = 0; j < total; j++) {
+            data[j] = s.nextInt();
+        }
+
         for (int i = 0; i < NUM_RUNS; i++) {
-            int[] data = new int[total];
-            for (int j = 0; j < total; j++) {
-                data[j] = s.nextInt();
-            }
             Counter c = new Counter(data);
             threads.add(c);
         }
