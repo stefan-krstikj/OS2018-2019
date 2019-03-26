@@ -1,5 +1,3 @@
-package Lab02_Java_Threads;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;

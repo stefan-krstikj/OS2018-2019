@@ -1,5 +1,3 @@
-package Lab02_Java_Threads;
-
 import java.util.concurrent.Semaphore;
 
 public class testingThreads implements Runnable{
