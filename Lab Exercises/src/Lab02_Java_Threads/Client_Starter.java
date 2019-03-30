@@ -131,6 +131,7 @@ class TCPServer {
             System.out.println(id);
             ServerStarterThread sst = new ServerStarterThread(client, id, this);
             sst.start();
+            sst.join();
         }
     }
 
