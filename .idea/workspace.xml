@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9180eaf7-fee3-4c3b-861c-c98a356e4e34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TancSoStudentite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TribeDinner.java" afterDir="false" />
+    <list default="true" id="9180eaf7-fee3-4c3b-861c-c98a356e4e34" name="Default Changelist" comment="Almost finished Client_Starer">
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Barber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/MusicBand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/SeptemberTribeDinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/VotingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab Exercises/Lab02_Java_Threads/TCPServer$ServerStarterThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab Exercises/Lab02_Java_Threads/TCPServer$ServerStarterThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab Exercises/Lab02_Java_Threads/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab Exercises/Lab02_Java_Threads/TCPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java01_IO_Networking/DirectoryListing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java01_IO_Networking/DirectoryManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java01_IO_Networking/MainApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/Count2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadA1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadB1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadBasicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadJoin.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,37 +40,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/Barber.java">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-407">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="388">
+              <caret line="108" selection-end-line="364" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TribeDinner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5545">
-              <caret line="383" column="26" lean-forward="true" selection-start-line="383" selection-start-column="26" selection-end-line="383" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#3742#3743#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TancSoStudentite.java">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+            <state relative-caret-position="1054">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1411#1412#0" expanded="true" />
+                <element signature="e#1582#1583#0" expanded="true" />
+                <element signature="e#1525#1526#0" expanded="true" />
+                <element signature="e#1581#1582#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="87" column="1" lean-forward="true" selection-start-line="2" selection-end-line="87" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1083#1084#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,6 +93,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ID</find>
+      <find>cook</find>
+      <find>sca</find>
+      <find>main</find>
+      <find>scanner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -96,13 +127,31 @@
         <option value="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TribeDinner.java" />
         <option value="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TemplateNumRunsAndNumInstances.java" />
         <option value="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/Barber.java" />
+        <option value="$PROJECT_DIR$/ExercisesHelp/source/example1.txt" />
+        <option value="$PROJECT_DIR$/ExercisesHelp/source/example2.txt" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO2.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPServer.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPClient.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Barber.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/VotingSystem.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/SeptemberTribeDinner.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Poker/Poker.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Poker.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/MusicBand.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="610" />
-    <option name="width" value="1315" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="616" />
+    <option name="width" value="1311" />
+    <option name="height" value="1167" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -112,6 +161,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,41 +173,31 @@
             <path>
               <item name="OS2018-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="OS2018-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OS2018-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="OS2018-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OS2018-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="OS2018-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab03_Threads_Syncronization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OS2018-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OS2018-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab03_Threads_Syncronization" type="462c0819:PsiDirectoryNode" />
-              <item name="Barber.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Threads_Syncronization" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554200222113" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554715712442" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OS/Homeworks" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -168,11 +209,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Exercises\src\Threads_Syncronization" />
+      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Exercises\src\Java_Networking" />
       <recent name="C:\Users\StefanASUS\IdeaProjects\4 Semestar\OS2018-2019\Lab Exercises\src\Lab03_Threads_Syncronization" />
       <recent name="C:\Users\StefanASUS\IdeaProjects\4 Semestar\OS2018-2019\Lab Exercises\src\Lab02_Java_Threads" />
       <recent name="C:\Users\StefanASUS\IdeaProjects\4 Semestar\OS2018-2019\Auditoriski Vezbi\src\Java03_RaceConditions_Deadlock" />
-      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Lab Exercises\src\Lab02_Java_Threads" />
-      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Auditoriski Vezbi\src\Java02_Threading_Concurrency" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,13 +228,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TemplateNumRunsAndNumInstances">
-    <configuration name="ClientStarer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02_Java_Threads.ClientStarer" />
-      <module name="Lab Exercises" />
+  <component name="RunManager" selected="Application.Scheduler">
+    <configuration name="MusicBand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.MusicBand" />
+      <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab02_Java_Threads.*" />
+          <option name="PATTERN" value="Threads_Syncronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +242,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCPServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02_Java_Threads.TCPServer" />
-      <module name="Lab Exercises" />
+    <configuration name="Processor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.Processor" />
+      <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab02_Java_Threads.*" />
+          <option name="PATTERN" value="Threads_Syncronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.Scheduler" />
+      <module name="Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Threads_Syncronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +269,11 @@
       </method>
     </configuration>
     <configuration name="TancSoStudentite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab03_Threads_Syncronization.TancSoStudentite" />
-      <module name="Lab Exercises" />
+      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.TancSoStudentite" />
+      <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab03_Threads_Syncronization.*" />
+          <option name="PATTERN" value="Threads_Syncronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,25 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplateNumRunsAndNumInstances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab03_Threads_Syncronization.TemplateNumRunsAndNumInstances" />
-      <module name="Lab Exercises" />
+    <configuration name="TancSoStudentite2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.TancSoStudentite2" />
+      <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab03_Threads_Syncronization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TribeDinner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab03_Threads_Syncronization.TribeDinner" />
-      <module name="Lab Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab03_Threads_Syncronization.*" />
+          <option name="PATTERN" value="Threads_Syncronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TemplateNumRunsAndNumInstances" />
-        <item itemvalue="Application.TribeDinner" />
+        <item itemvalue="Application.Scheduler" />
+        <item itemvalue="Application.Processor" />
+        <item itemvalue="Application.TancSoStudentite2" />
         <item itemvalue="Application.TancSoStudentite" />
-        <item itemvalue="Application.ClientStarer" />
-        <item itemvalue="Application.TCPServer (1)" />
+        <item itemvalue="Application.MusicBand" />
       </list>
     </recent_temporary>
   </component>
@@ -283,6 +324,9 @@
       <workItem from="1553504671588" duration="16605000" />
       <workItem from="1553594677948" duration="5011000" />
       <workItem from="1554195092611" duration="4946000" />
+      <workItem from="1554547596772" duration="8841000" />
+      <workItem from="1554641629928" duration="25520000" />
+      <workItem from="1554709363123" duration="4912000" />
     </task>
     <task id="LOCAL-00001" summary="Working on CountThree.java">
       <created>1553429820380</created>
@@ -316,7 +360,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37699000" />
+    <option name="totallyTimeSpent" value="76972000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,9 +372,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="616" y="0" width="1311" height="1167" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.1738255" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.18305355" />
       <window_info id="Structure" order="1" sideWeight="0.5017544" side_tool="true" weight="0.17181209" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -340,15 +385,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49898168" weight="0.30311614" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41784704" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49898168" visible="true" weight="0.2630561" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24468085" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.21104816" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50101835" side_tool="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3186969" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3181818" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -378,7 +423,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/CountThree.java</url>
-          <line>82</line>
+          <line>86</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -388,6 +433,12 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -396,53 +447,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Auditoriski Vezbi/src/Java01_IO_Networking/DirectoryListing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/02/TwoThreads.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/os lab 2 i 3/Lab2/Prva.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/os lab 2 i 3/Lab2/TenThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-383">
-          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/os lab 2 i 3/Lab2/Naizmenicno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1633">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="437" column="16" selection-start-line="437" selection-start-column="16" selection-end-line="437" selection-end-column="16" />
-          <folding>
-            <element signature="e#15434#15435#0" expanded="true" />
-            <element signature="e#15465#15466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" />
     <entry file="file://$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/02/CountThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-511">
@@ -467,30 +472,9 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_RaceConditionsDeadlock (1).zip/src/mk/ukim/finki/os/synchronization/problems/ProducerConsumer.java" />
     <entry file="file://$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/ProducerConsumer.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_RaceConditionsDeadlock.zip/src/mk/ukim/finki/os/synchronization/problems/ProducerConsumer.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B1194E/SinhronizacijaPushaci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B3E9AF/TenReadersOneWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-935">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B70005/CalciumNitride.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-986">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B1194E/SinhronizacijaPushaci.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B3E9AF/TenReadersOneWriter.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B70005/CalciumNitride.java" />
     <entry file="file://$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/javaAABC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -512,28 +496,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="835" column="40" selection-start-line="835" selection-start-column="40" selection-end-line="835" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/io/PrintStream.java" />
     <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HS01_2.java" />
     <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="28" selection-start-column="28" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -577,9 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_sockets.zip/sockets/tcp_new/TCPClient.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_sockets.zip/sockets/tcp_new/TCPClient.java" />
     <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/TCPServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -652,13 +618,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TemplateNumRunsAndNumInstances.java">
+    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TemplateNumRunsAndNumInstances.java" />
+    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TribeDinner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="67" column="37" lean-forward="true" selection-end-line="401" />
+        <state relative-caret-position="306">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="true" />
+            <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesHelp/source/example1.txt" />
+    <entry file="file://$PROJECT_DIR$/ExercisesHelp/source/example2.txt" />
+    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO2.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -673,10 +663,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/Barber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-407">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="-731">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4602">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner2.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/VotingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/SeptemberTribeDinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="648" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#22402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Barber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="true" />
@@ -684,12 +743,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TribeDinner.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/MusicBand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5545">
-          <caret line="383" column="26" lean-forward="true" selection-start-line="383" selection-start-column="26" selection-end-line="383" selection-end-column="26" />
+        <state relative-caret-position="415">
+          <caret line="89" column="9" lean-forward="true" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#1468#1476#0" expanded="true" />
+            <element signature="e#5084#5092#0" expanded="true" />
+            <element signature="e#10343#10344#0" expanded="true" />
+            <element signature="e#10369#10370#0" expanded="true" />
+            <element signature="e#10454#10455#0" expanded="true" />
+            <element signature="e#10482#10483#0" expanded="true" />
+            <element signature="e#10521#10522#0" expanded="true" />
+            <element signature="e#10555#10556#0" expanded="true" />
+            <element signature="e#10757#10758#0" expanded="true" />
+            <element signature="e#10825#10826#0" expanded="true" />
+            <element signature="e#11509#11510#0" expanded="true" />
+            <element signature="e#11554#11555#0" expanded="true" />
+            <element signature="e#12309#12310#0" expanded="true" />
+            <element signature="e#12354#12355#0" expanded="true" />
+            <element signature="e#13116#13141#0" expanded="true" />
+            <element signature="e#13856#13857#0" expanded="true" />
+            <element signature="e#13885#13886#0" expanded="true" />
+            <element signature="e#15290#15291#0" expanded="true" />
+            <element signature="e#15328#15329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Poker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="193" selection-start-column="2" selection-end-line="647" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="108" selection-end-line="364" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3742#3743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="87" column="1" lean-forward="true" selection-start-line="2" selection-end-line="87" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
           </folding>
         </state>
       </provider>

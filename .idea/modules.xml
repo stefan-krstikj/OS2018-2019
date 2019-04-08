@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Auditoriski Vezbi/Auditoriski Vezbi.iml" filepath="$PROJECT_DIR$/Auditoriski Vezbi/Auditoriski Vezbi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homeworks/Homeworks.iml" filepath="$PROJECT_DIR$/Homeworks/Homeworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab Exercises/Lab Exercises.iml" filepath="$PROJECT_DIR$/Lab Exercises/Lab Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/OS2018-2019.iml" filepath="$PROJECT_DIR$/OS2018-2019.iml" />
