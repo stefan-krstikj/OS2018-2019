@@ -51,25 +51,44 @@ public class ExamIO {
         }
     }
 
-    public byte[] deserializeDataAtPosition(String source, long position, long elementLength) throws IOException {
-        RandomAccessFile raf = new RandomAccessFile(source, "r");
-        raf.seek(position * elementLength);
-        int elPos = 0;
-        byte[] el = new byte[(int) elementLength];
+    public byte[] deseralizeDataAtPosition(String source, long position, long elementLength) throws IOException {
+        byte[] out = new byte[(int) elementLength];
 
-        while (elPos < elementLength){
-            el[elPos] = (byte) raf.read();
-            elPos++;
+        RandomAccessFile randomAccessFile = new RandomAccessFile(source, "r");
+        randomAccessFile.seek(position*elementLength);
+        int counter = 0;
+        while (counter < elementLength){
+            out[counter] = randomAccessFile.readByte();
+            counter++;
         }
-        return el;
+
+        return out;
     }
 
-    public static void deserealizeData(String source, List<byte[]> data, long elementLength) throws IOException {
 
+    public static void deserealizeData(String source, List<byte[]> data, long elementLength) throws IOException {
+        FileInputStream fis = new FileInputStream(source);
+        byte[] buffer = new byte[(int) elementLength];
+        int counter = 0;
+        while(fis.read(buffer) != -1){
+            data.add(buffer);
+        }
     }
 
     public static void invertLargeFile(String source, String destination) throws IOException {
+        RandomAccessFile randomAccessFile = new RandomAccessFile(source, "r");
+        FileOutputStream fos = new FileOutputStream(destination);
 
+        long length = randomAccessFile.length()-1;
+        while(length >= 0){
+            randomAccessFile.seek(length);
+            char bukva = (char) randomAccessFile.read();
+            fos.write(bukva);
+            length--;
+        }
+        randomAccessFile.close();
+        fos.flush();
+        fos.close();
     }
 
     public static void main(String[] args){

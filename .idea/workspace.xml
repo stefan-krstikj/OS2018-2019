@@ -2,33 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9180eaf7-fee3-4c3b-861c-c98a356e4e34" name="Default Changelist" comment="Almost finished Client_Starer">
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Barber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/MusicBand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/SeptemberTribeDinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/VotingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem/MainStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem/TCPClientFT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem/TCPServerFT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/MainStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java01_IO_Networking/DirectoryListing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java01_IO_Networking/DirectoryManipulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java01_IO_Networking/MainApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/Count.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/Count2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadA1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadB1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadBasicTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Auditoriski Vezbi/Java02_Threading_Concurrency/ThreadJoin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleNetwork/Client_Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleNetwork/TCPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleNetwork/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/Java_Networking/ClientStarer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/Java_Networking/ClientStarterWorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/Java_Networking/ServerWorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/Java_Networking/TCPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/Java_Networking/TCPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/Java_Networking/TCPServerThreaded.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,42 +29,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="108" selection-end-line="364" />
+            <state relative-caret-position="493">
+              <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3742#3743#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1411#1412#0" expanded="true" />
-                <element signature="e#1582#1583#0" expanded="true" />
-                <element signature="e#1525#1526#0" expanded="true" />
-                <element signature="e#1581#1582#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/MainStarter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="87" column="1" lean-forward="true" selection-start-line="2" selection-end-line="87" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1083#1084#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,6 +77,9 @@
       <find>sca</find>
       <find>main</find>
       <find>scanner</find>
+      <find>TCPServer</find>
+      <find>next</find>
+      <find>write</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,35 +88,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Auditoriski Vezbi/src/Java01_IO_Networking/DirectoryListing.java" />
-        <option value="$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/os lab 2 i 3/Lab2/CountThree.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/GenerateNumbers.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/FileScanner.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/CountThree.java" />
-        <option value="$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/nizaABC.java" />
-        <option value="$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/javaAABC.java" />
-        <option value="$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/ProducerConsumer.java" />
-        <option value="$USER_HOME$/AppData/Local/Temp/7zOC7B3E9AF/TenReadersOneWriter.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/testingThreads.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_1.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_2.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_3.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_4.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/TCPServer.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/TCPClient.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/TwoThreads.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/Client_Starter.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TancSoStudentite.java" />
-        <option value="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TribeDinner.java" />
         <option value="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TemplateNumRunsAndNumInstances.java" />
         <option value="$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/Barber.java" />
         <option value="$PROJECT_DIR$/ExercisesHelp/source/example1.txt" />
         <option value="$PROJECT_DIR$/ExercisesHelp/source/example2.txt" />
         <option value="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO2.java" />
-        <option value="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPServer.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/TCPClient.java" />
-        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Barber.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/VotingSystem.java" />
@@ -145,13 +106,47 @@
         <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/EventProcessor.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TennisTournament.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Threads_Syncronization/exam18/EventProcessor.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam18/TennisTournament.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam18/MainG1.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam17/Reader.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam16/KindergartenShow.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam17/MusicBand.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam14/AbstractState.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/StateFiles/AbstractState.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/StateFiles/BoundCounterWithRaceConditionCheck.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/StateFiles/PointsException.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/StateFiles/ProblemExecution.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/StateFiles/Switcher.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/StateFiles/TemplateThread.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam17/Concert.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam14/CalciumNitride.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam14/AluminiumHydroxide.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/exam14/ExamSolution.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_IO/ExamIOJune.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/VotingSystem/TCPServerVoter.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/VotingSystem/TCPClientVoter.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/TCP_Test/src/com/finki/tcp/TCPServer.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleNetwork/Client_Starter.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/FileTransfer/TCPServerFT.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/FileTransfer/TCPClientFT.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/FileTransfer/MainStart.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem/TCPServerFT.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/MainStarter.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPClient.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPServer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="616" />
-    <option name="width" value="1311" />
-    <option name="height" value="1167" />
+    <option name="x" value="284" />
+    <option name="y" value="36" />
+    <option name="width" value="1408" />
+    <option name="height" value="1077" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -161,8 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +181,7 @@
               <item name="OS2018-2019" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Threads_Syncronization" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_Networking" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,7 +192,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554715712442" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554925635612" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OS/Homeworks" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -209,11 +204,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Exercises\src\Threads_Syncronization" />
       <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Exercises\src\Java_Networking" />
+      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Exercises\src\exam14" />
+      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Exercises\src\exam16" />
+      <recent name="C:\Users\Stefa\IdeaProjects\4 Semestar\OS2018-2019\Exercises\src\Threads_Syncronization" />
       <recent name="C:\Users\StefanASUS\IdeaProjects\4 Semestar\OS2018-2019\Lab Exercises\src\Lab03_Threads_Syncronization" />
-      <recent name="C:\Users\StefanASUS\IdeaProjects\4 Semestar\OS2018-2019\Lab Exercises\src\Lab02_Java_Threads" />
-      <recent name="C:\Users\StefanASUS\IdeaProjects\4 Semestar\OS2018-2019\Auditoriski Vezbi\src\Java03_RaceConditions_Deadlock" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,13 +223,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Scheduler">
-    <configuration name="MusicBand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.MusicBand" />
+  <component name="RunManager" selected="Application.AluminiumHydroxide">
+    <configuration name="AluminiumHydroxide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam14.AluminiumHydroxide" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads_Syncronization.*" />
+          <option name="PATTERN" value="exam14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Processor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.Processor" />
+    <configuration name="ClientStarer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Networking.ClientStarer" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads_Syncronization.*" />
+          <option name="PATTERN" value="Java_Networking.SimpleNetwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.Scheduler" />
+    <configuration name="MainStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Networking.SimpleListenerSystem.MainStart" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads_Syncronization.*" />
+          <option name="PATTERN" value="Java_Networking.SimpleListenerSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TancSoStudentite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.TancSoStudentite" />
+    <configuration name="MainStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Networking.SimpleListenerSystem2.MainStarter" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads_Syncronization.*" />
+          <option name="PATTERN" value="Java_Networking.SimpleListenerSystem2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TancSoStudentite2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads_Syncronization.TancSoStudentite2" />
+    <configuration name="TCPServerThreaded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Networking.TCPServerThreaded" />
       <module name="Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads_Syncronization.*" />
+          <option name="PATTERN" value="Java_Networking.SimpleNetwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Scheduler" />
-        <item itemvalue="Application.Processor" />
-        <item itemvalue="Application.TancSoStudentite2" />
-        <item itemvalue="Application.TancSoStudentite" />
-        <item itemvalue="Application.MusicBand" />
+        <item itemvalue="Application.AluminiumHydroxide" />
+        <item itemvalue="Application.MainStarter" />
+        <item itemvalue="Application.MainStart" />
+        <item itemvalue="Application.ClientStarer" />
+        <item itemvalue="Application.TCPServerThreaded" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +321,11 @@
       <workItem from="1554195092611" duration="4946000" />
       <workItem from="1554547596772" duration="8841000" />
       <workItem from="1554641629928" duration="25520000" />
-      <workItem from="1554709363123" duration="4912000" />
+      <workItem from="1554709363123" duration="5406000" />
+      <workItem from="1554717815481" duration="12869000" />
+      <workItem from="1554803825174" duration="12189000" />
+      <workItem from="1554820855298" duration="5231000" />
+      <workItem from="1554922164191" duration="3399000" />
     </task>
     <task id="LOCAL-00001" summary="Working on CountThree.java">
       <created>1553429820380</created>
@@ -360,7 +359,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76972000" />
+    <option name="totallyTimeSpent" value="111154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,10 +371,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="616" y="0" width="1311" height="1167" extended-state="0" />
-    <editor active="true" />
+    <frame x="284" y="36" width="1408" height="1077" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.18305355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.24406528" />
       <window_info id="Structure" order="1" sideWeight="0.5017544" side_tool="true" weight="0.17181209" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -384,16 +382,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49898168" visible="true" weight="0.2630561" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24468085" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49898168" visible="true" weight="0.3209746" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3845339" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.21104816" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50101835" side_tool="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3181818" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31779662" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -433,12 +431,6 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java</url>
-          <line>168</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -447,191 +439,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" />
-    <entry file="file://$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/02/CountThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-511">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/FINKI/FINKI 4 Semestar/Оперативни Системи/Лабораториски/os lab 2 i 3/Lab2/CountThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_RaceConditionsDeadlock.zip/src/IntegerWrapper.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_RaceConditionsDeadlock.zip/src/ExampleThread.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_RaceConditionsDeadlock (1).zip/src/mk/ukim/finki/os/synchronization/problems/ProducerConsumer.java" />
-    <entry file="file://$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/ProducerConsumer.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_RaceConditionsDeadlock.zip/src/mk/ukim/finki/os/synchronization/problems/ProducerConsumer.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B1194E/SinhronizacijaPushaci.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B3E9AF/TenReadersOneWriter.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOC7B70005/CalciumNitride.java" />
-    <entry file="file://$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/javaAABC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1338#1339#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-            <element signature="e#1841#1842#0" expanded="true" />
-            <element signature="e#1881#1882#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Auditoriski Vezbi/src/Java03_RaceConditions_Deadlock/nizaABC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="64" column="21" lean-forward="true" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/io/PrintStream.java" />
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HS01_2.java" />
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/src/GenerateNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/src/testingThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_sockets.zip/sockets/tcp_new/TCPClient.java" />
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/TCPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/TCPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/TwoThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/CountThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="1" selection-end-line="1101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/FileScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="85" column="72" selection-start-line="85" selection-start-column="72" selection-end-line="85" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab02_Java_Threads/Client_Starter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="168" column="43" selection-start-line="168" selection-start-column="43" selection-end-line="168" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TemplateNumRunsAndNumInstances.java" />
-    <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TribeDinner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesHelp/source/example1.txt" />
-    <entry file="file://$PROJECT_DIR$/ExercisesHelp/source/example2.txt" />
     <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab01_IO_Networking/HW01_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -643,40 +450,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO2.java" />
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab Exercises/src/Lab03_Threads_Syncronization/TancSoStudentite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="634">
           <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/TCPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/TCPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -690,39 +467,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4602">
-          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/Client_Starter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TribeDinner2.java" />
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/VotingSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/SeptemberTribeDinner.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam14/SeptemberTribeDinner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-start-column="2" selection-end-line="648" selection-end-column="3" />
@@ -732,10 +478,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Barber.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam16/Poker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="219">
+          <caret line="193" selection-start-column="2" selection-end-line="647" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam18/EventProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam17/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam18/TennisTournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1175#1183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam17/Scheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/lab/TribeDinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/lab/TancSoStudentite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/lab/Barber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="true" />
@@ -743,89 +558,324 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/MusicBand.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam18/Reader.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/lab/TancSoStudentite2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="89" column="9" lean-forward="true" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#1468#1476#0" expanded="true" />
-            <element signature="e#5084#5092#0" expanded="true" />
-            <element signature="e#10343#10344#0" expanded="true" />
-            <element signature="e#10369#10370#0" expanded="true" />
-            <element signature="e#10454#10455#0" expanded="true" />
-            <element signature="e#10482#10483#0" expanded="true" />
-            <element signature="e#10521#10522#0" expanded="true" />
-            <element signature="e#10555#10556#0" expanded="true" />
-            <element signature="e#10757#10758#0" expanded="true" />
-            <element signature="e#10825#10826#0" expanded="true" />
-            <element signature="e#11509#11510#0" expanded="true" />
-            <element signature="e#11554#11555#0" expanded="true" />
-            <element signature="e#12309#12310#0" expanded="true" />
-            <element signature="e#12354#12355#0" expanded="true" />
-            <element signature="e#13116#13141#0" expanded="true" />
-            <element signature="e#13856#13857#0" expanded="true" />
-            <element signature="e#13885#13886#0" expanded="true" />
-            <element signature="e#15290#15291#0" expanded="true" />
-            <element signature="e#15328#15329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Poker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="193" selection-start-column="2" selection-end-line="647" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/TancSoStudentite2.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam18/MainG1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="108" selection-end-line="364" />
+        <state relative-caret-position="993">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3742#3743#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#2301#2302#0" expanded="true" />
+            <element signature="e#2355#2356#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Processor.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam17/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="244">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-            <element signature="e#1525#1526#0" expanded="true" />
-            <element signature="e#1581#1582#0" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Threads_Syncronization/Scheduler.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam16/KindergartenShow.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/AbstractState.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam17/MusicBand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="87" column="1" lean-forward="true" selection-start-line="2" selection-end-line="87" selection-end-column="1" />
+        <state relative-caret-position="378">
+          <caret line="224" column="8" lean-forward="true" selection-end-line="612" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/StateFiles/BoundCounterWithRaceConditionCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="206" column="1" selection-start-line="206" selection-start-column="1" selection-end-line="206" selection-end-column="1" />
+          <folding>
+            <element signature="e#2349#2350#0" expanded="true" />
+            <element signature="e#2375#2376#0" expanded="true" />
+            <element signature="e#2473#2474#0" expanded="true" />
+            <element signature="e#2501#2502#0" expanded="true" />
+            <element signature="e#2553#2554#0" expanded="true" />
+            <element signature="e#2587#2588#0" expanded="true" />
+            <element signature="e#4449#4450#0" expanded="true" />
+            <element signature="e#4494#4495#0" expanded="true" />
+            <element signature="e#5249#5250#0" expanded="true" />
+            <element signature="e#5294#5295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/StateFiles/PointsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#203#228#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/StateFiles/TemplateThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/StateFiles/Switcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/StateFiles/ProblemExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="46" column="1" selection-start-line="4" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/StateFiles/AbstractState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#489#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam17/Concert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="233" lean-forward="true" selection-start-line="233" selection-end-line="233" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam14/CalciumNitride.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam14/ExamSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_IO/ExamIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="52" selection-end-line="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_IO/ExamIOJune.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/VotingSystem/TCPClientVoter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/VotingSystem.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/VotingSystem/TCPServerVoter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="2211" selection-start-line="2211" selection-end-line="2211" />
+          <folding>
+            <element signature="e#84089#84090#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/TCP_Test/src/com/finki/tcp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/TCP_Test/src/com/finki/tcp/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleNetwork/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleNetwork/Client_Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="154" column="6" selection-start-line="154" selection-start-column="6" selection-end-line="154" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCP_Test/src/com/finki/tcp/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCP_Test/src/com/finki/tcp/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCP_Test/src/com/finki/tcp/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem/MainStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem/TCPServerFT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem/TCPClientFT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleNetwork/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/exam14/AluminiumHydroxide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="92" column="14" lean-forward="true" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Java_Networking/SimpleListenerSystem2/MainStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
